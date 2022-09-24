@@ -1,7 +1,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome Lab Assessment!");
+		System.out.println("Welcome Lab Assessment Term2!");
 	}
 
 }
